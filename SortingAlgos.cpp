@@ -3,7 +3,7 @@
 	Tools Used: Dev C++ Version 5.11
 	Compiler Options: -static-libgcc -std=c++11
 	ITCS 6114 Algorithms & Data Structures
-	Authors: Shanmukha Praveen Madasu, Narendra Kumar Vankayala
+	Author: Shanmukha Praveen Madasu
 */
 
 //#include "pch.h"
